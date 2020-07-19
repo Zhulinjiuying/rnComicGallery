@@ -1,2 +1,2 @@
-# react-native-comic-gallery
+# rnComicGallery
 comic gallery
